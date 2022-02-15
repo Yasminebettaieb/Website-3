@@ -43,8 +43,8 @@ audio,canvas,progress,video {display: inline-block;vertical-align: baseline;}
 
 img 			{border:0;max-width:100%;vertical-align:middle; }
 .imglogo {border:0;max-width:100%;vertical-align:middle; height: 60px;}
-.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 200px;   margin-top: 15%;
-    padding-right:17px;
+.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 130px;   margin-top: 23%;
+    padding-right:25px; opacity: 0.7;
 }
 
 
@@ -198,7 +198,7 @@ h6 {font-size:17px;text-transform:uppercase;padding:0 0 23px;}
 .home .main 				{padding:0;}
 .home .advanced-search 	{margin:0;}
 
-.intro 					{background:url(../images/uploads/keyvisual.jpg) 50% 0 fixed no-repeat;height:100vh;overflow:hidden;float:left;width:100%;display:block;min-height:768px; background-size: cover;  background-attachment: scroll;}
+.intro 					{background:url(../images/uploads/11.png) 50% 0 fixed no-repeat;height:100vh;overflow:hidden;float:left;width:100%;display:block;min-height:768px; background-size: cover;  background-attachment: scroll;}
 .intro .textwidget		{color:#fff;padding-top:0%;text-align:center;}
 .intro .textwidget h1 	{text-transform:uppercase;font-size:60px;margin:0 0 -5px;}
 .intro .textwidget h2 	{text-transform:uppercase;font-size:23px;margin:0;}
@@ -218,13 +218,13 @@ h6 {font-size:17px;text-transform:uppercase;padding:0 0 23px;}
 .partners 	{float:left;width:100%;padding:48px 0 30px;}
 .partners h2	{text-transform:uppercase;font-size:30px;padding:0 0 40px;}
 
-		.testimonials 			{float:right;width:100%;background:url(../images/uploads/téléchargement.png) no-repeat center center fixed; 
+		.testimonials 			{float:right;width:100%;background:url(../images/uploads/taxe-g88a8c5772_1920.jpg) no-repeat center center fixed; 
 			-webkit-background-size: cover;
 			-moz-background-size: cover;
 			-o-background-size: cover;
 			background-size: cover;
    background-attachment: scroll;
-   height:50vh;
+   height:60vh;
 }
 .visa{
 	height: 55px;
@@ -896,13 +896,13 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 @media screen and (max-width: 1200px) {
 .wrap 	{width:94%;}
 .main-nav ul > li {padding-left:25px;}
-.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 150px;   margin-top: 20%;
-    padding-right:17px;
+.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 110px;   margin-top: 25%;
+    padding-right:26px; opacity: 0.7;
 }
 .experience1{
 	text-transform: uppercase;
     position: relative;
-    font-size: 65px;
+    font-size: 58px;
     color: #fff;
     margin-top: 5%;
     margin-left: 60px;
@@ -937,13 +937,13 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 .main-nav ul > li 	{padding:0 25px 0 0;}
 .services.boxed .details						{text-align:left;padding:25px 20px;border-right:1px solid #DFDFD0;}
 
-.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 130px;   margin-top: 23%;
-    padding-right:17px;
+.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 110px;   margin-top: 25%;
+    padding-right:25px; opacity: 0.7;
 }
 .experience1{
 	text-transform: uppercase;
     position: relative;
-    font-size: 60px;
+    font-size: 55px;
     color: #fff;
     margin-top: 5%;
     margin-left: 60px;
@@ -1082,8 +1082,8 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 
 .readonly .one-fourth		{width:33.3333%;}
 .readonly .three-fourth		{width:66.6667%;}
-.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 120px;   margin-top: 26%;
-    padding-right:17px;
+.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 100px;   margin-top: 25%;
+    padding-right:17px; opacity: 0.7;
 }
 
 .gmap {height:300px;}
@@ -1126,7 +1126,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 
  }
  .imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 90px;   margin-top: 30%;
-    padding-right:17px;
+    padding-right:17px; opacity: 0.7;
 }
 
 .preloader	{display:none;}
@@ -1153,7 +1153,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 }
 .intro .textwidget 	{padding-top:0%;}
 .imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 80px;   margin-top: 35%;
-    padding-right:17px;
+    padding-right:17px; opacity: 0.7;
 }
 
 .visa{
@@ -1171,7 +1171,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 
 @media screen and (max-width: 500px) {
 	.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 75px;   margin-top: 36%;
-		padding-right:17px;
+		padding-right:17px; opacity: 0.7;
 	}
 	
 .intro .textwidget 	{padding-top:0%;}
@@ -1229,7 +1229,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 	height: 30px;
 }
 .imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 50px;   margin-top: 48%;
-    padding-right:17px;
+    padding-right:17px; opacity: 0.7;
 }
 
 .xdsoft_datetimepicker 		{padding-right:0;max-width:100%;}
@@ -1238,7 +1238,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 }
 @media screen and (max-width: 350px) {
 	.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 40px;   margin-top: 58%;
-		padding-right:17px;
+		padding-right:17px; opacity: 0.7;
 	}
 	.experience1{
 		text-transform: uppercase;
@@ -1254,7 +1254,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 	}
 }
 @media screen and (max-width: 313px) {
-	.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 40px;}
+	.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 40px; opacity: 0.7;}
 	.experience1{
 		text-transform: uppercase;
 		position: relative;
