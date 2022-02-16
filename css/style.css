@@ -200,7 +200,7 @@ h6 {font-size:17px;text-transform:uppercase;padding:0 0 23px;}
 
 .intro 					{background:url(../images/uploads/11.png) 50% 0 fixed no-repeat;height:100vh;overflow:hidden;float:left;width:100%;display:block;min-height:768px; background-size: cover;  background-attachment: scroll;}
 .intro .textwidget		{color:#fff;padding-top:0%;text-align:center;}
-.intro .textwidget h1 	{text-transform:uppercase;font-size:60px;margin:0 0 -5px;}
+.intro .textwidget h1 	{text-transform:uppercase;font-size:70px;margin:0 0 -5px;}
 .intro .textwidget h2 	{text-transform:uppercase;font-size:23px;margin:0;}
 .intro .actions			{margin:6px 0 0;padding:46px 0 0;background:url(../images/separator.jpg) 50% 0 no-repeat;border:none;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;}
 .intro .actions .btn		{margin:0 10px;}
@@ -864,6 +864,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 .slicknav_nav .slicknav_txtnode 			{margin-left:15px;}
 .slicknav_nav h2 						{display:none;}
 .slicknav_nav div 						{padding:0;width:100%;float:none;}
+.whatsapp{ height: 43px;padding: 2px; opacity: 0.8;}
 
 /* 25 PRINT CSS*/
 @media print {
@@ -886,7 +887,6 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
   h2,
   h3 {page-break-after: avoid;}
   select {background:none;}
-
  .header,.main-nav,.site-title,.sidebar,.footer {display:none;}	
 }
 
@@ -908,6 +908,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
     margin-left: 60px;
 
 }
+.whatsapp{ height: 35px;padding: 2px; opacity: 0.8;}
 
 .hentry .entry-content p {height:47px;overflow:hidden;}
 .single .entry-content p {height:auto;}
@@ -925,6 +926,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 .result .one-half 	{width:50%;}
 
 .main-nav li > div  {width:100% !important;}
+.intro .textwidget h1 	{text-transform:uppercase;font-size:60px;margin:0 0 -5px;}
 
 .tab-content .one-fourth	 {width:50%;}
 }
@@ -940,6 +942,9 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 .imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 90px;   margin-top: 25%;
     padding-right:25px; opacity: 0.7;
 }
+.intro .textwidget h1 	{text-transform:uppercase;font-size:50px;margin:0 0 -5px;}
+.whatsapp{ height: 35px;padding: 2px; opacity: 0.8;}
+
 .experience1{
 	text-transform: uppercase;
     position: relative;
@@ -947,6 +952,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
     color: #fff;
     margin-top: 10%;
     margin-left: 60px;
+
 
 }
 .advanced-search .form-group.spinner,
@@ -995,6 +1001,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 	height: 45px;
 	width: 200px;
 }
+.whatsapp{ height: 30px;padding: 2px; opacity: 0.8;}
 
 .services.boxed .details						{text-align:left;padding:25px 20px;border-right:1px solid #DFDFD0;}
 .experience1{
