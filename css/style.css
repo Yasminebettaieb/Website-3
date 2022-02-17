@@ -1117,9 +1117,20 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
     position: relative;
     font-size: 40px;
     color: #fff;
-    margin-top:16%;
+    margin-top:19%;
     margin-left: 30px;
 
+}
+.intro {
+    background: url(../images/uploads/12.png) 50% 0 fixed no-repeat;
+    height: 100vh;
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    display: block;
+    min-height: 768px;
+    background-size: cover;
+    background-attachment: scroll;
 }
 .twint{
 	margin-top: 12px;
@@ -1133,7 +1144,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 	margin-bottom: 30px;
 
  }
- .imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 90px;   margin-top: 30%;
+ .imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 90px;   margin-top: 27%;
     padding-right:17px; opacity: 0.7;
 }
 
@@ -1152,6 +1163,17 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 .readonly .one-fourth 			{padding-bottom:0;}
 .experience {
 	font-family: DIN; margin-top: 10px; font-size: 190%; padding: 5px;
+}
+.intro {
+    background: url(../images/uploads/14.jpg) 50% 0 fixed no-repeat;
+    height: 100vh;
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    display: block;
+    min-height: 768px;
+    background-size: cover;
+    background-attachment: scroll;
 }
 .experience1{
 	text-transform: uppercase;
@@ -1205,7 +1227,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
     position: relative;
     font-size: 35px;
     color: #fff;
-    margin-top:27%;
+    margin-top:31%;
     margin-left: 0px;
 
 }
@@ -1228,6 +1250,17 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 .intro .btn.large	{width:100%;margin:0 0 15px;}
 .experience {
 	font-family: DIN; margin-top: 13px; font-size: 130%; padding: 5px;
+}
+.intro {
+    background: url(../images/uploads/14.jpg) 50% 0 fixed no-repeat;
+    height: 100vh;
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    display: block;
+    min-height: 768px;
+    background-size: cover;
+    background-attachment: scroll;
 }
 .imglogo {
     border: 0;
