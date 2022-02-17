@@ -198,7 +198,7 @@ h6 {font-size:17px;text-transform:uppercase;padding:0 0 23px;}
 .home .main 				{padding:0;}
 .home .advanced-search 	{margin:0;}
 
-.intro 					{background:url(../images/uploads/11.png) 50% 0 fixed no-repeat;height:100vh;overflow:hidden;float:left;width:100%;display:block;min-height:768px; background-size: cover;  background-attachment: scroll;}
+.intro 					{background:url(../images/uploads/11.png) 50% 0 fixed no-repeat;height:130vh;overflow:inherit;float:left;width:100%;display:block;min-height:100%; background-size: cover;  background-attachment: scroll;}
 .intro .textwidget		{color:#fff;padding-top:0%;text-align:center;}
 .intro .textwidget h1 	{text-transform:uppercase;font-size:70px;margin:0 0 -5px;}
 .intro .textwidget h2 	{text-transform:uppercase;font-size:23px;margin:0;}
@@ -904,7 +904,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
     position: relative;
     font-size: 58px;
     color: #fff;
-    margin-top: 9%;
+    margin-top: 12%;
     margin-left: 60px;
 
 }
@@ -942,7 +942,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 .imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 90px;   margin-top: 25%;
     padding-right:25px; opacity: 0.7;
 }
-.intro .textwidget h1 	{text-transform:uppercase;font-size:50px;margin:0 0 -5px;}
+.intro .textwidget h1 	{text-transform:uppercase;font-size:42px;margin:0 0 -5px;}
 .whatsapp{ height: 35px;padding: 2px; opacity: 0.8;}
 
 .experience1{
@@ -950,7 +950,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
     position: relative;
     font-size: 55px;
     color: #fff;
-    margin-top: 10%;
+    margin-top: 13%;
     margin-left: 60px;
 
 
@@ -1117,18 +1117,18 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
     position: relative;
     font-size: 40px;
     color: #fff;
-    margin-top:19%;
+    margin-top:21%;
     margin-left: 30px;
 
 }
 .intro {
-    background: url(../images/uploads/12.png) 50% 0 fixed no-repeat;
+    background: url(../images/uploads/14.jpg) 50% 0 fixed no-repeat;
     height: 100vh;
-    overflow: hidden;
+    overflow: inherit;
     float: left;
     width: 100%;
     display: block;
-    min-height: 768px;
+    min-height: 100%;
     background-size: cover;
     background-attachment: scroll;
 }
@@ -1154,7 +1154,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 @media screen and (max-width: 600px) {
 .result .btn 					{width:100%;margin-top:25px;}
 .intro .textwidget h1 {
-    font-size: 45px;
+    font-size: 35px;
 }
 .microlocations .one-fourth,
 .tab-content .one-fourth,
@@ -1167,11 +1167,11 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 .intro {
     background: url(../images/uploads/14.jpg) 50% 0 fixed no-repeat;
     height: 100vh;
-    overflow: hidden;
+    overflow: inherit;
     float: left;
     width: 100%;
     display: block;
-    min-height: 768px;
+    min-height: 100%;
     background-size: cover;
     background-attachment: scroll;
 }
@@ -1180,12 +1180,12 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
     position: relative;
     font-size: 38px;
     color: #fff;
-    margin-top:22%;
+    margin-top:24%;
     margin-left: 20px;
 
 }
 .intro .textwidget 	{padding-top:0%;}
-.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 80px;   margin-top: 31%;
+.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 70px;   margin-top: 31%;
     padding-right:17px; opacity: 0.7; margin-bottom: 16px;
 }
 
@@ -1227,7 +1227,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
     position: relative;
     font-size: 35px;
     color: #fff;
-    margin-top:31%;
+    margin-top:37%;
     margin-left: 0px;
 
 }
@@ -1254,11 +1254,11 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 .intro {
     background: url(../images/uploads/14.jpg) 50% 0 fixed no-repeat;
     height: 100vh;
-    overflow: hidden;
+    overflow: inherit;
     float: left;
     width: 100%;
     display: block;
-    min-height: 768px;
+    min-height: 100%;
     background-size: cover;
     background-attachment: scroll;
 }
