@@ -43,7 +43,13 @@ audio,canvas,progress,video {display: inline-block;vertical-align: baseline;}
 
 img 			{border:0;max-width:100%;vertical-align:middle; }
 .imglogo {border:0;max-width:100%;vertical-align:middle; height: 60px;}
-.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 105px;   margin-top: 23%;
+.imglogo1 {
+    border: 0;
+    max-width: 100%;
+    vertical-align: middle;
+    height: 100px;
+    margin-top: 27%;
+    padding-left: 20%;
     padding-right:25px; opacity: 0.7;
 }
 
@@ -198,11 +204,21 @@ h6 {font-size:17px;text-transform:uppercase;padding:0 0 23px;}
 .home .main 				{padding:0;}
 .home .advanced-search 	{margin:0;}
 
-.intro 					{background:url(../images/uploads/photo3.png) 50% 0 fixed no-repeat;height:130vh;overflow:inherit;float:left;width:100%;display:block;min-height:100%; background-size: cover;  background-attachment: scroll;}
-.intro .textwidget		{color:#fff;padding-top:0%;text-align:center;}
+.intro 					{
+	background:url(../images/uploads/photo3.png) 50% 0 fixed no-repeat;
+	height: 100vh;
+    overflow: hidden;
+    float: left;
+    width: 100%;
+    display: block;
+    min-height: 768px;
+    background-size: cover;
+    background-attachment: scroll;}
+	.intro .textwidget		{color:#fff; padding-top: 20%;;text-align:center;}
 .intro .textwidget h1 	{text-transform:uppercase;font-size:60px;margin:0 0 -5px;}
 .intro .textwidget h2 	{text-transform:uppercase;font-size:23px;margin:0;}
-.intro .actions			{margin:6px 0 0;padding:46px 0 0;background:url(../images/separator.jpg) 50% 0 no-repeat;border:none;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;}
+.intro .actions			{margin:6px 0 0;padding:46px 0 0;
+	background:url(../images/separator.jpg) 50% 0 no-repeat;border:none;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;}
 .intro .actions .btn		{margin:0 10px;}
 
 .services							{float:left;width:100%;}
@@ -896,9 +912,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 @media screen and (max-width: 1200px) {
 .wrap 	{width:94%;}
 .main-nav ul > li {padding-left:25px;}
-.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 90px;   margin-top: 26%;
-    padding-right:30px; opacity: 0.7;
-}
+
 .experience1{
 	text-transform: uppercase;
     position: relative;
@@ -924,10 +938,15 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 .result .one-fourth:first-of-type 	{width:25%;}
 .result .one-fourth 	{width:25%;}
 .result .one-half 	{width:50%;}
+.intro .textwidget {
+    color: #fff;
+    padding-top: 23%;
+    text-align: center;
+}
 
 .intro .textwidget h1 {
     text-transform: uppercase;
-    font-size: 50px;
+    font-size: 45px;
     margin: 0 0 -5px;
 }
 .main-nav li > div  {width:100% !important;}
@@ -943,10 +962,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 .main-nav ul > li 	{padding:0 25px 0 0;}
 .services.boxed .details						{text-align:left;padding:25px 20px;border-right:1px solid #DFDFD0;}
 
-.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 90px;   margin-top: 25%;
-    padding-right:25px; opacity: 0.7;
-}
-.intro .textwidget h1 	{text-transform:uppercase;font-size:42px;margin:0 0 -5px;}
+
 .whatsapp{ height: 35px;padding: 2px; opacity: 0.8;}
 
 .experience1{
@@ -979,7 +995,20 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 	object-fit: cover;
 	margin-bottom: 30px;
  }
-
+ .imglogo1 {
+	 border: 0;
+	 max-width: 100%;
+	 vertical-align: middle;
+	 height: 70px;
+	 margin-top: 40%;
+	 padding-left: 20%;
+	 opacity: 0.7;
+ }
+ .intro .textwidget {
+    color: #fff;
+    padding-top: 23%;
+    text-align: center;
+}
 
 
 .result .price, .result .meta 		{float:left;}
@@ -1005,6 +1034,11 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 	height: 45px;
 	width: 200px;
 }
+.intro .textwidget {
+    color: #fff;
+    padding-top: 25%;
+    text-align: center;
+}
 .whatsapp{ height: 30px;padding: 2px; opacity: 0.8;}
 
 .services.boxed .details						{text-align:left;padding:25px 20px;border-right:1px solid #DFDFD0;}
@@ -1017,6 +1051,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
     margin-left: 40px;
 
 }
+
 .twint{
 	margin-top: 12px;
 
@@ -1094,9 +1129,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 
 .readonly .one-fourth		{width:33.3333%;}
 .readonly .three-fourth		{width:66.6667%;}
-.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 91;   margin-top: 25%;
-    padding-right:17px; opacity: 0.7;
-}
+
 
 .gmap {height:300px;}
 }
@@ -1111,7 +1144,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 .footer article 			{padding:35px 15px 20px;margin:0;border-bottom:1px solid rgba(0,0,0,.5);-webkit-box-shadow:0 1px 0 rgba(255,255,255,.07);-moz-box-shadow:0 1px 0 rgba(255,255,255,.07);box-shadow:0 1px 0 rgba(255,255,255,.07);}
 
 .animated {-webkit-animation-duration: 0s;animation-duration: 0s;}
-.intro .textwidget 				{padding-top:1%;}
+.intro .textwidget 				{padding-top:35%;}
 .visa{
 	height: 45px;
 	width: 200px;
@@ -1127,12 +1160,12 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 }
 .intro {
     background: url(../images/uploads/photo2.png) 50% 0 fixed no-repeat;
-    height: 130vh;
-    overflow: inherit;
+	height: 100vh;
+    overflow: hidden;
     float: left;
     width: 100%;
     display: block;
-    min-height: 100%;
+    min-height: 768px;
     background-size: cover;
     background-attachment: scroll;
 }
@@ -1148,18 +1181,13 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 	margin-bottom: 30px;
 
  }
- .imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 90px;   margin-top: 27%;
-    padding-right:17px; opacity: 0.7;
-}
+ 
 
 .preloader	{display:none;}
 }
 
 @media screen and (max-width: 600px) {
 .result .btn 					{width:100%;margin-top:25px;}
-.intro .textwidget h1 {
-    font-size: 35px;
-}
 .microlocations .one-fourth,
 .tab-content .one-fourth,
 .readonly .one-fourth,
@@ -1174,7 +1202,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
     overflow: inherit;
     float: left;
     width: 100%;
-    display: block;
+    display: flex;
     min-height: 100%;
     background-size: cover;
     background-attachment: scroll;
@@ -1188,9 +1216,14 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
     margin-left: 20px;
 
 }
-.intro .textwidget 	{padding-top:0%;}
-.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 70px;   margin-top: 31%;
-    padding-right:17px; opacity: 0.7; margin-bottom: 16px;
+.imglogo1 {
+    border: 0;
+    max-width: 100%;
+    vertical-align: middle;
+    height: 70px;
+    margin-top: 35%;
+    padding-left: 20%;
+    opacity: 0.7;
 }
 
 .visa{
@@ -1207,9 +1240,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 }
 
 @media screen and (max-width: 500px) {
-	.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 55px;   margin-top: 38%;
-		padding-right:17px; opacity: 0.7;margin-bottom: 10%;
-	}
+
 	.imglogo {
 		border: 0;
 		max-width: 100%;
@@ -1218,8 +1249,8 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 	}
 
 	
-.intro .textwidget 	{padding-top:0%;}
-.intro .textwidget h1 {font-size:30px;}
+	.intro .textwidget 	{padding-top:50%;}
+	.intro .textwidget h1 {font-size:30px;}
 .intro .textwidget h2 {font-size:17px;}
 .intro .btn.large	{font-size:14px;width:46%;margin:0 1%;}
 .advanced-search .form-group.spinner input {width:100%;}
@@ -1248,9 +1279,7 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 }
 
 @media screen and (max-width: 400px) {
-	.intro .textwidget 	{padding-top:0%;}
 
-.intro .textwidget h1 {font-size:30px;}
 .intro .btn.large	{width:100%;margin:0 0 15px;}
 .experience {
 	font-family: DIN; margin-top: 13px; font-size: 130%; padding: 5px;
@@ -1266,6 +1295,8 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
     background-size: cover;
     background-attachment: scroll;
 }
+.intro .textwidget h1 {font-size:30px;}
+
 .imglogo {
     border: 0;
     max-width: 100%;
@@ -1280,7 +1311,14 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
     margin-top:2%;
 	font-weight: bold;
     margin-left: 10px;
-
+}
+.imglogo1 {
+    border: 0;
+    max-width: 100%;
+    vertical-align: middle;
+    height: 50px;
+    margin-top: 40%;
+    opacity: 0.7;
 }
 .visa{
 	height: 35px;
@@ -1290,18 +1328,14 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 	margin-top: 8px;
 	height: 30px;
 }
-.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 50px;   margin-top: 48%;
-    padding-right:17px; opacity: 0.7;
-}
+
 
 .xdsoft_datetimepicker 		{padding-right:0;max-width:100%;}
 .xdsoft_datetimepicker .xdsoft_datepicker	{margin:0;width:100%;}
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box {height:116px;}
 }
 @media screen and (max-width: 350px) {
-	.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 40px;   margin-top: 58%;
-		padding-right:17px; opacity: 0.7;
-	}
+
 	.experience1{
 		text-transform: uppercase;
 		position: relative;
@@ -1323,7 +1357,6 @@ div.radio input 						{opacity: 0;filter: alpha(opacity=0);-moz-opacity: 0;borde
 	}
 }
 @media screen and (max-width: 313px) {
-	.imglogo1 {border:0;max-width:100%;vertical-align:middle; height: 40px; opacity: 0.7;}
 	.experience1{
 		text-transform: uppercase;
 		position: relative;
